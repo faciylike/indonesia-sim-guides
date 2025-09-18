@@ -58,3 +58,10 @@ layout: default
 
 　　总之，在印尼上网这件事，选择Telkomsel求稳，选择XL性价比高，而选择eSIM求的是那份从容和便捷。希望你的印尼之旅，从网络连接成功的那一刻起，就充满顺畅和惊喜。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Indonesia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/indonesia-data-plans)
